@@ -13,7 +13,7 @@ My name is **Monochromish**, you can call me Mono and I am from **Australia**! I
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monochromish&theme=dracula" />
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ff79c6)
+![Profile views](https://gpvc.arturio.dev/Monochromish)
 ## Recent Updates ⬇️
 
 I recently made an Open-Source Multipurpose Discord Bot, known as Kalopsia Bot => **[Check it out !!!](https://github.com/Monochromish/Kalopsia-Bot/)**
