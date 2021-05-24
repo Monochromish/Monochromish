@@ -6,6 +6,7 @@ My name is **Monochromish**, you can call me Mono! I am a **student** and **codi
 🐍I am currently learning Python<br />
 🎮You can contact me on Discord, My Discord ID is => 500315184510795819<br />
 🏁Other interests => Gaming, Marathons<br />
+👦Pronounce => He/Him
 
 ## Stats 📈
 
