@@ -25,6 +25,3 @@ My name is **Monochromish**, you can call me Mono! I am a **student** and **codi
 <img align="left" alt="HTML" width="26px" src="https://imgur.com/v4EalJA.png"/> 
 <img align="left" alt="Node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png"/> <br><br>
 </div>
-
-## Recent Updates ⬇️
-I recently made an Open-Source Multipurpose Discord Bot, known as Kalopsia Bot => **[Check it out !!!](https://github.com/Monochromish/Kalopsia-Bot/)**
