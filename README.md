@@ -5,9 +5,9 @@ My name is **Monochromish**, you can call me Mono! I am a **student** and **codi
 ---
 
 ## More About Me 😁
-🐍I am currently learning Python<br />
-🏁Other interests => Gaming, Coding ( Obviously ), Skateboarding and Marathons<br />
-👦Pronounce => He/Him | Age => 16 y.o.
+🐍 I am currently learning Python<br />
+🏁 Other interests ➤ Gaming, Coding ( Obviously ), Skateboarding and Marathons<br />
+👦 Pronounce ➤ He / Him | Age ➤ 16 y.o.
 
 ---
 
@@ -37,13 +37,13 @@ My name is **Monochromish**, you can call me Mono! I am a **student** and **codi
 
 ## Some of my Projects 📁
 
-[PrizmBot](http://prizmbot.tk):
+[PrizmBot](http://prizmbot.tk):<br />
 A powerful utility and fun bot with loads of commands and little to no downtime.
 
-[monochromish](https://www.npmjs.com/package/monochromish):
+[monochromish](https://www.npmjs.com/package/monochromish):<br />
 A npm package which can be used with discord-buttons to make interactive embeds, calculator command and much more! psst..it also has chatbot feature so you can talk with your bot
 
-[Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot):
+[Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot):<br />
 ♠️ A Powerful Open-Source Discord Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
 
 ---
