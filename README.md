@@ -1,6 +1,6 @@
 ### Hello People 👋
 
-My name is **Monochromish**, you can call me Mono! I am a **student** and **coding is my hobby**, however i would like to pursue it. I am a **Discord Bot Developer** and I like to make bots in **JavaScript** and sometimes **Python**. Also go checkout my Discord Bot, [PrizmBot](http://prizmbot.tk).
+My name is **Monochromish**, you can call me Mono! I am a **student** and **coding is my hobby**, however i would like to pursue it. I am a **Discord Bot Developer** and I like to make bots in **JavaScript** and sometimes **Python**.
 
 ---
 
