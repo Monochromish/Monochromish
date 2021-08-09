@@ -50,6 +50,6 @@ A npm package which can be used with discord-buttons to make interactive embeds,
 
 ## Contact Me 📝
 
-<a href="https://discord.com/users/725945760629129277">
+<a href="https://discord.com/users/500315184510795819">
 <img src="https://discord.c99.nl/widget/theme-1/500315184510795819.png" alt="Monochromish#9999 ( 500315184510795819 )"/>
 </a>
