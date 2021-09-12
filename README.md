@@ -7,7 +7,7 @@ My name is **Monochromish**, you can call me Mono! I am a **student** and **codi
 ## More About Me 😁
 🐍 I am currently learning Python<br />
 🏁 Other interests ➤ Gaming, Coding ( Obviously ), Skateboarding and Marathons<br />
-👦 Pronounce ➤ He / Him | Age ➤ 16 y.o.
+➤ 16 y.o.
 
 ---
 
