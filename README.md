@@ -29,7 +29,9 @@ My name is **Monochromish**, you can call me Mono! I am a **student** and **codi
 <img align="left" alt="Discord.js" width="26px" src="https://cdn.discordapp.com/emojis/851461195554619442.png?v=1.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png"/> 
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/ml09ccU.png"/>
-<img align="left" alt="HTML" width="26px" src="https://imgur.com/v4EalJA.png"/> 
+<img align="left" alt="HTML" width="26px" src="https://imgur.com/v4EalJA.png"/>
+<img align="left" alt="CSS" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"/>
+<img align="left" alt="Vue.js" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png"/>
 <img align="left" alt="Node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png"/> <br><br>
 </div>
 
