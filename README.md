@@ -1,17 +1,17 @@
-### Hello People 👋
+### Hello People <img src= "https://cdn.discordapp.com/emojis/711935212363448413.gif" alt='wave' width="35px">
 
 My name is **Monochromish**, you can call me Mono! I am a **student** and **coding is my hobby**, however i would like to pursue it. I am a **Discord Bot Developer** and I like to make bots in **JavaScript** and sometimes **Python**.
 
 ---
 
-## More About Me 😁
-🐍 I am currently learning Python<br />
-🏁 Other interests ➤ Gaming, Coding ( Obviously ), Skateboarding and Marathons<br />
+## More About Me <img src= "https://cdn.discordapp.com/emojis/865334941150871592.png" alt='smile' width="35px">
+<img src= "https://cdn.discordapp.com/emojis/813909686947938334.png" alt='python' width="20px"> | I am currently learning Python<br />
+<img src= "https://cdn.discordapp.com/emojis/777960963444965376.gif" alt='running' width="20px"> | Other interests ➤ Gaming, Coding ( Obviously ), Skateboarding and Marathons<br />
 ➤ 16 y.o.
 
 ---
 
-## Stats 📈
+## Stats <img src= "https://cdn.discordapp.com/emojis/575371695746187314.png" alt='stats' width="35px">
 
 [![Monochromish's Stats](https://github-readme-stats.vercel.app/api?username=Monochromish&show_icons=true&theme=dracula)](https://github.com/Monochromish/github-readme-stats)
 
@@ -21,7 +21,7 @@ My name is **Monochromish**, you can call me Mono! I am a **student** and **codi
 
 ---
 
-## My Tools and Languages 🛠️
+## My Tools and Languages <img src= "https://cdn.discordapp.com/emojis/788502319645720636.gif" alt='typing' width="35px">
 
 <div>
 <img align="left" alt="Visual Studio Code Insider" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" /><br />
@@ -37,7 +37,7 @@ My name is **Monochromish**, you can call me Mono! I am a **student** and **codi
 
 ---
 
-## Some of my Projects 📁
+## Some of my Projects <img src= "https://cdn.discordapp.com/emojis/632707393565753345.png" alt='project' width="35px">
 
 [PrizmBot](http://prizmbot.tk):<br />
 A powerful utility and fun bot with loads of commands and little to no downtime.
@@ -50,7 +50,7 @@ A npm package which can be used with discord-buttons to make interactive embeds,
 
 ---
 
-## Contact Me 📝
+## Contact Me <img src= "https://cdn.discordapp.com/emojis/884546568634630184.png" alt='project' width="35px">
 
 <a href="https://discord.com/users/500315184510795819">
 <img src="https://discord.c99.nl/widget/theme-1/500315184510795819.png" alt="Monochromish#9999 ( 500315184510795819 )"/>
