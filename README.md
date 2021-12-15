@@ -5,9 +5,8 @@ My name is **Monochromish**, you can call me Mono! I am a **student** and **codi
 ---
 
 ## More About Me <img src= "https://cdn.discordapp.com/emojis/865334941150871592.png" alt='smile' width="35px">
-<img src= "https://cdn.discordapp.com/emojis/813907670176104478.png" alt='typescript' width="20px"> | I am currently learning TypeScript<br />
-<img src= "https://cdn.discordapp.com/emojis/777960963444965376.gif" alt='running' width="20px"> | Other interests ➤ Gaming, Coding ( Obviously ), Skateboarding and Marathons<br />
-➤ 16 y.o.
+<img src= "https://cdn.discordapp.com/emojis/813907670176104478.png" alt='typescript' width="20px"> | I am currently learning TypeScript and Kotlin<br />
+<img src= "https://cdn.discordapp.com/emojis/777960963444965376.gif" alt='running' width="20px"> | Other interests ➤ Gaming, Coding ( Obviously ), Skateboarding and Marathons
 
 ---
 
