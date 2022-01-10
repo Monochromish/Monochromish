@@ -1,22 +1,29 @@
-### Hello People <img src= "https://cdn.discordapp.com/emojis/711935212363448413.gif" alt='wave' width="35px">
+### Hey hey peeps! <img src= "https://cdn.discordapp.com/emojis/711935212363448413.gif" alt='wave' width="35px">
 
-My name is **Monochromish**, you can call me Mono! I am a **student** and **coding is my hobby**, however i would like to pursue it. I am a **Discord Bot Developer** and I like to make bots in **JavaScript** and sometimes **Python**.
+My name is **Monochromish**, or you can call me Mono! I am a 16 year old student, a Front-end Developer and a tech enthusiast.
+
+<p align="center">
+   <a href="https://discord.com/users/500315184510795819" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/500315184510795819?idleMessage=Mostly%20sleepingzzz" alt="Discord Presence" align="center">
+   </a>
+</p>
 
 ---
 
-## More About Me <img src= "https://cdn.discordapp.com/emojis/865334941150871592.png" alt='smile' width="35px">
-<img src= "https://cdn.discordapp.com/emojis/813907670176104478.png" alt='typescript' width="20px"> | I am currently learning TypeScript and Kotlin<br />
-<img src= "https://cdn.discordapp.com/emojis/777960963444965376.gif" alt='running' width="20px"> | Other interests ➤ Gaming, Coding ( Obviously ), Skateboarding and Marathons
+### More about me
+
+* I am currently working on Prizm, my very own Discord bot written in JavaScript all the way.
+* Learning Kotlin and somewhat Python
+* Love Skateboarding and Athletics
 
 ---
 
 <details>
-  <summary>Stats <img src= "https://cdn.discordapp.com/emojis/575371695746187314.png" alt='stats' width="35px"></summary>
+  <summary>Statistics</summary>
 
 [![Monochromish's Stats](https://github-readme-stats.vercel.app/api?username=Monochromish&show_icons=true&theme=dracula)](https://github.com/Monochromish/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monochromish&theme=dracula" />
-
 ![Profile views](https://gpvc.arturio.dev/Monochromish)
 
 </details>
@@ -24,9 +31,10 @@ My name is **Monochromish**, you can call me Mono! I am a **student** and **codi
 ---
 
 <details>
-  <summary>My Tools and Languages <img src= "https://cdn.discordapp.com/emojis/788502319645720636.gif" alt='typing' width="35px"></summary>
+  <summary>My Tools and Languages</summary>
 
 <div>
+<br />
 <img align="left" alt="Visual Studio Code Insider" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" /><br />
 <br />
 <img align="left" alt="Discord.js" width="26px" src="https://cdn.discordapp.com/emojis/851461195554619442.png?v=1.png" />
@@ -37,16 +45,15 @@ My name is **Monochromish**, you can call me Mono! I am a **student** and **codi
 <img align="left" alt="Vue.js" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png"/>
 <img align="left" alt="Node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png"/> <br><br>
 </div>
-
 </details>
 
 ---
 
 <details>
-  <summary>Some of my Projects <img src= "https://cdn.discordapp.com/emojis/632707393565753345.png" alt='project' width="35px"></summary>
+  <summary>Some of my Projects</summary>
 
-[PrizmBot](http://prizmbot.tk):<br />
-A powerful utility and fun bot with loads of commands and little to no downtime.
+[Prizm](http://prizmbot.tk):<br />
+Discord's Best Utilitarian & Fun Bot // Slash-Only.
 
 [monochromish](https://www.npmjs.com/package/monochromish):<br />
 A npm package which can be used with discord-buttons to make interactive embeds, calculator command and much more! psst..it also has chatbot feature so you can talk with your bot
@@ -57,9 +64,3 @@ A npm package which can be used with discord-buttons to make interactive embeds,
 </details>
 
 ---
-
-## Contact Me <img src= "https://cdn.discordapp.com/emojis/884546568634630184.png" alt='project' width="35px">
-
-<a href="https://discord.com/users/500315184510795819">
-<img src="https://discord.c99.nl/widget/theme-1/500315184510795819.png" alt="Monochromish#9999 ( 500315184510795819 )"/>
-</a>
