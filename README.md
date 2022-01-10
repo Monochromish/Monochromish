@@ -24,7 +24,6 @@ My name is **Monochromish**, or you can call me Mono! I am a 16 year old student
 [![Monochromish's Stats](https://github-readme-stats.vercel.app/api?username=Monochromish&show_icons=true&theme=dracula)](https://github.com/Monochromish/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monochromish&theme=dracula" />
-![Profile views](https://gpvc.arturio.dev/Monochromish)
 
 </details>
 
