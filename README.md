@@ -61,4 +61,10 @@ An elegant, efficient, easy-to-setup and arguably the best Last.fm discord rich 
 
 </details>
 
+<p align="center">
+   <a href="https://discord.gg/E6z5ZmsV4m" target="_blank" rel="nofollow">
+      boop boop boop...
+   </a>
+</p>
+
 ---
