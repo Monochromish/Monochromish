@@ -51,11 +51,11 @@ My name is **Monochromish**, or you can call me Mono! I am a 16 year old student
 <details>
   <summary>Some of my Projects</summary>
 
-[Prizm](http://prizmbot.tk):<br />
+[Prizm](http://prizmbot.tk) & [Prizm's Website](https://github.com/prizm-project/Prizm-Website):<br />
 Discord's Best Utilitarian & Fun Bot // Slash-Only.
 
-[monochromish](https://www.npmjs.com/package/monochromish):<br />
-A npm package which can be used with discord-buttons to make interactive embeds, calculator command and much more! psst..it also has chatbot feature so you can talk with your bot
+[Last.fm-Discord-Rich-Presence](https://github.com/Monochromish/Last.fm-Discord-Rich-Presence):<br />
+An elegant, efficient, easy-to-setup and arguably the best Last.fm discord rich presence!
 
 [Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot):<br />
 ♠️ A Powerful Open-Source Discord Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
