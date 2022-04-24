@@ -2,11 +2,9 @@
 
 My name is **Monochromish**, or you can call me Mono! I am a 16 year old student, a Front-end Developer and a tech enthusiast.
 
-<p align="center">
    <a href="https://discord.com/users/500315184510795819">
       <img src="https://lanyard-profile-readme.vercel.app/api/500315184510795819?hideTimestamp=true&idleMessage=Mostly%20sleeping💤" align="right" />
    </a>
-</p>
 
 ---
 
