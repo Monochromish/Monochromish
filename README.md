@@ -62,6 +62,10 @@ My name is **Monochromish**, or you can call me Mono! I am a 16 year old student
 </details>
 
 <p align="center">
+   <a href="https://ko-fi.com/monochromish" target="_blank" rel="nofollow">
+      <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+   </a>
+   <br />
    <a href="https://monolul.me" target="_blank" rel="nofollow">
       boop boop boop...
    </a>
