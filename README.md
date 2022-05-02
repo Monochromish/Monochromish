@@ -10,8 +10,8 @@ My name is **Monochromish**, or you can call me Mono! I am a 16 year old student
 
 ### More about me
 
-* I am currently working on Prizm, my very own Discord bot written in JavaScript all the way.
-* Learning Kotlin and somewhat Python
+* Currently contributing and procrastinating
+* Learning TypeScript & Flutter
 * Love Skateboarding and Athletics
 
 ---
