@@ -1,4 +1,4 @@
-### Hey hey peeps! <img src= "https://cdn.discordapp.com/emojis/711935212363448413.gif" alt='wave' width="35px">
+### Hey hey peeps! <img src= "https://cdn.discordapp.com/emojis/711935212363448413.gif" alt='wave' width="35px" height="35px">
 
 My name is **Monochromish**, or you can call me Mono! I am a 16 year old student, a Front-end Developer and a tech enthusiast.
 
