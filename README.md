@@ -1,6 +1,8 @@
-### Hey hey peeps! <img src= "https://cdn.discordapp.com/emojis/711935212363448413.gif" alt='wave' width="35px" height="35px">
+### Hey hey! <img src= "https://cdn.discordapp.com/emojis/711935212363448413.gif" alt='wave' width="35px" height="35px">
 
-My name is **Monochromish**, or you can call me Mono! I am a 16 year old student, a Front-end Developer and a tech enthusiast.
+My name is **Monochromish**, or you can call me Mono!
+
+I am a 16 year old student, a Front-end Developer and a tech enthusiast. I love to code in JavaScript and sometimes do the funny in TypeScript since I was 14. I have an unhealthy obsession with music, here's my [Last.fm](https://www.last.fm/user/Monochromish).
 
 <a href="https://discord.com/users/500315184510795819">
    <img src="https://lanyard-profile-readme.vercel.app/api/500315184510795819?hideTimestamp=true&idleMessage=Mostly%20sleeping💤" align="right" />
@@ -11,7 +13,7 @@ My name is **Monochromish**, or you can call me Mono! I am a 16 year old student
 ### More about me
 
 * Currently contributing and procrastinating
-* Learning TypeScript & Flutter
+* Learning Flutter
 * Love Skateboarding and Athletics
 
 ---
@@ -50,12 +52,14 @@ My name is **Monochromish**, or you can call me Mono! I am a 16 year old student
 <details>
   <summary>Some of my Projects</summary>
    
+   <br />
+   
    [Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot):<br />
    ♠️ A Powerful Open-Source Discord Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
-   
+
    [Prizm](http://prizmbot.tk) & [Prizm's Website](https://github.com/prizm-project/Prizm-Website):<br />
    Discord's Best Utilitarian & Fun Bot // Slash-Only.
-   
+
    [Last.fm-Discord-Rich-Presence](https://github.com/Monochromish/Last.fm-Discord-Rich-Presence):<br />
    An elegant, efficient, easy-to-setup and arguably the best Last.fm discord rich presence!
 
