@@ -13,7 +13,7 @@ I am a 16 year old student, a Front-end Developer and a tech enthusiast. I love 
 ### More about me
 
 * Currently contributing and procrastinating
-* Learning Flutter
+* Learning Flutter, or perhaps trying to
 * Love Skateboarding and Athletics
 
 ---
@@ -43,7 +43,8 @@ I am a 16 year old student, a Front-end Developer and a tech enthusiast. I love 
       <img align="left" alt="CSS" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"/>
       <br />
       <br />
-      <img align="left" alt="Electron.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"/> <br><br>
+      <img align="left" alt="Electron.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"/>
+      <img align="left" alt="Tailwind.css" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/> <br><br>
    </div>
 </details>
 
