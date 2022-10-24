@@ -1,8 +1,10 @@
-### Hey hey! <img src= "https://cdn.discordapp.com/emojis/711935212363448413.gif" alt='wave' width="35px" height="35px">
+### Hey hey! 👋
 
-My name is **Monochromish**, or you can call me Mono!
+My name is **Monochromish**, you can call me Mono
 
-I am a 16 year old student, a Front-end Developer and a tech enthusiast. I love to code in JavaScript and sometimes do the funny in TypeScript since I was 14. I have an unhealthy obsession with music, here's my [Last.fm](https://www.last.fm/user/Monochromish).
+I am a 16 year old student, a Front-end Developer and a tech enthusiast.
+I love to code in JavaScript/TypeScript.
+I have an unhealthy obsession with music, here's my [Last.fm](https://www.last.fm/user/Monochromish).
 
 <a href="https://discord.com/users/500315184510795819">
    <img src="https://lanyard-profile-readme.vercel.app/api/500315184510795819?hideTimestamp=true&idleMessage=Mostly%20sleeping💤" align="right" />
@@ -13,7 +15,6 @@ I am a 16 year old student, a Front-end Developer and a tech enthusiast. I love 
 ### More about me
 
 * Currently contributing and procrastinating
-* Learning Flutter, or perhaps trying to
 * Love Skateboarding and Athletics
 
 ---
@@ -67,7 +68,7 @@ I am a 16 year old student, a Front-end Developer and a tech enthusiast. I love 
 </details>
 
 <p align="center">
-   <a href="https://monolul.me" target="_blank" rel="nofollow">
+   <a href="https://personal-website-monochromish.vercel.app/" target="_blank" rel="nofollow">
       boop boop boop...
    </a>
 </p>
