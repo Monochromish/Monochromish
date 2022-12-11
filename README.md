@@ -45,7 +45,9 @@ I have an unhealthy obsession with music, here's my [Last.fm](https://www.last.f
       <br />
       <br />
       <img align="left" alt="Electron.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"/>
-      <img align="left" alt="Tailwind.css" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/> <br><br>
+      <img align="left" alt="Tailwind.css" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/>
+      <img align="left" alt="Vue.js" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" />
+      <br><br>
    </div>
 </details>
 
