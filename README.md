@@ -2,7 +2,7 @@
 
 My name is **Monochromish**, you can call me Mono
 
-I am a 16 year old student, a Front-end Developer and a tech enthusiast.
+I am a 17 year old student, a Front-end Developer and a tech enthusiast.
 I am passionate about coding and love working with JavaScript and TypeScript. I am currently working for [Cider Collective](https://github.com/ciderapp) as a Developer.
 I have an unhealthy obsession with music, here's my [Last.fm](https://www.last.fm/user/Monochromish).
 
