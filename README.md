@@ -10,10 +10,6 @@ I have an unhealthy obsession with music, here's my [Last.fm](https://www.last.f
    <img src="https://lanyard-profile-readme.vercel.app/api/500315184510795819?hideTimestamp=true&idleMessage=Mostly%20sleeping💤" align="right" />
 </a>
 
-<a href="https://github.com/Monochromish/lastfm-profile-readme">
-   <img width=300 src="https://lastfm-profile-readme.vercel.app/api/Monochromish" align="center" />
-</a>
-
 ---
 
 ### More about me
@@ -35,6 +31,15 @@ I have an unhealthy obsession with music, here's my [Last.fm](https://www.last.f
 Kalopsia-Bot is a powerful Discord bot written in JavaScript that comes packed with a wide range of moderation, fun, economy, music, and utility commands. Consider starring the repository and checking it out for yourself.
 
 </details>
+
+---
+
+#### Last.fm
+
+<a href="https://github.com/Monochromish/lastfm-profile-readme">
+   <img width=300 src="https://lastfm-profile-readme.vercel.app/api/Monochromish" align="center" />
+</a>
+
 
 <p align="center">
    <a href="https://personal-website-monochromish.vercel.app/" target="_blank" rel="nofollow">
