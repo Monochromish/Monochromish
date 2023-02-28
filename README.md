@@ -11,7 +11,7 @@ I have an unhealthy obsession with music, here's my [Last.fm](https://www.last.f
 </a>
 
 <a href="https://github.com/Monochromish/lastfm-profile-readme">
-   <img width=300 src="https://lastfm-profile-readme.vercel.app/api/Monochromish" />
+   <img width=300 src="https://lastfm-profile-readme.vercel.app/api/Monochromish" align="center" />
 </a>
 
 ---
