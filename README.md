@@ -40,6 +40,7 @@ Kalopsia-Bot is a powerful Discord bot written in JavaScript that comes packed w
    <img width=300 src="https://lastfm-profile-readme.vercel.app/api/Monochromish" align="center" />
 </a>
 
+<br />
 
 <p align="center">
    <a href="https://personal-website-monochromish.vercel.app/" target="_blank" rel="nofollow">
