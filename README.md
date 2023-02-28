@@ -10,6 +10,8 @@ I have an unhealthy obsession with music, here's my [Last.fm](https://www.last.f
    <img src="https://lanyard-profile-readme.vercel.app/api/500315184510795819?hideTimestamp=true&idleMessage=Mostly%20sleeping💤" align="right" />
 </a>
 
+<img width=300 src="https://lastfm-profile-readme.vercel.app/api/Monochromish" />
+
 ---
 
 ### More about me
