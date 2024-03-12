@@ -43,7 +43,7 @@ Kalopsia-Bot is a powerful Discord bot written in JavaScript that comes packed w
 <br />
 
 <p align="center">
-   <a href="https://personal-website-monochromish.vercel.app/" target="_blank" rel="nofollow">
+   <a href="https://himanshu.sh" target="_blank" rel="nofollow">
       boop boop boop...
    </a>
 </p>
