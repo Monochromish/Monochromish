@@ -1,19 +1,17 @@
-# Hi, I'm Himanshu 👋
+![Great software feels instant. himanshu.sh](https://raw.githubusercontent.com/Monochromish/portfolio/main/social/linkedin-banner.png)
 
-I lead engineering on [Cider](https://cider.sh), a cross-platform Apple Music client used by tens of thousands of people, and I'm a CS student at Penn State (class of 2028).
+Senior lead developer at [Cider](https://cider.sh), the Apple Music client for Windows, macOS and Linux, installed more than 250,000 times. Computer science at Penn State, class of 2028. I'm Himanshu, though Isaiah is fine too if that's easier to say.
 
-## What I work on
+I care most about the parts of software you feel: how fast it opens, how it answers a press, how little gets in the way.
 
-- **[Cider](https://github.com/ciderapp)** · architecture and delivery across a Vue/Nuxt + Electron desktop app and Go services, plus code review, release planning, and CI/CD for a distributed contributor team. The current app is closed source; its open-source predecessor, [Cider 1](https://github.com/ciderapp/Cider), has 7.1k stars.
-- **[cider-chromecast](https://github.com/ciderapp/cider-chromecast)** · Google Cast implemented from the protocol layer up in Go (mDNS/SSDP discovery, Cast session, receiver control), exposed to the desktop app through a cross-platform C FFI.
-- **Nittany Motorsports (Penn State Formula SAE)** · firmware project manager on the electronics team: containerized STM32/ESP-IDF build system, unified CI, over-the-air telemetry updates, CAN-frame logging.
-- **[Kalopsia Bot](https://github.com/Monochromish/Kalopsia-Bot)** · open-source Discord bot with 100+ stars, self-deployed by 60+ communities.
-- **Homelab** · a Nix + Docker + Nginx stack I've run since 2021.
+## Work
 
-## Stack
-
-Go, TypeScript, C, C++, Rust, Python · Vue/Nuxt, Electron, Node.js · Docker, Nix, GitHub Actions, Linux
+- **[Cider](https://cider.sh)**: I work across its Vue interface and its Electron and .NET apps. I led the rebuild of the settings system and its search, and built library sorting and search, editorial album banners, the tray, menu bar and keyboard shortcuts, and Cider's current Google Cast support. Its open-source predecessor, [Cider 1](https://github.com/ciderapp/Cider), has 7.1k stars.
+- **Nittany Motorsports** (Penn State Formula SAE Electric): firmware project manager. Telemetry and firmware tooling for the team's electric race car, including the telemetry page the team reads while the car is running.
+- **Gust**: encrypted peer-to-peer file transfer between your own devices, in C# and .NET. I started it out of frustration that there's no Continuity between Windows and Apple devices. A hobby project for now; I plan to open-source it once it's ready.
+- **airplay-core**: an AirPlay 2 sender library in Rust, written as interoperability research.
+- **[himanshu.sh](https://himanshu.sh)**: my site, built around a wall of stickers that visitors draw and place. [Source](https://github.com/Monochromish/portfolio).
 
 ## Find me
 
-[himanshu.sh](https://himanshu.sh) · [LinkedIn](https://www.linkedin.com/in/himanshu-adwani/) · [Resume](https://himanshu.sh/resume.pdf) · himanshu.adwani@outlook.com
+[himanshu.sh](https://himanshu.sh) · [LinkedIn](https://www.linkedin.com/in/himanshu-adwani) · [Resume](https://himanshu.sh/resume.pdf) · [himanshu.adwani@outlook.com](mailto:himanshu.adwani@outlook.com)
