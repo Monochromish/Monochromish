@@ -1,4 +1,7 @@
-![Great software feels instant. himanshu.sh](https://raw.githubusercontent.com/Monochromish/portfolio/main/social/linkedin-banner.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monochromish/portfolio/main/social/github-banner.png">
+  <img alt="Great software feels instant. himanshu.sh" src="https://raw.githubusercontent.com/Monochromish/portfolio/main/social/github-banner-light.png">
+</picture>
 
 Senior lead developer at [Cider](https://cider.sh), the Apple Music client for Windows, macOS and Linux, installed more than 250,000 times. Computer science at Penn State, class of 2028. I'm Himanshu, though Isaiah is fine too if that's easier to say.
 
